@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmqamqplib",
+  "version": "1.0.0",
+  "description": "this is a test application for exercise",
+  "main": "receive.js send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/RabbitMQAmqplib.git"
+  },
+  "author": "hamidreza nasrollahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/RabbitMQAmqplib/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/RabbitMQAmqplib#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "express": "^4.17.1"
+  }
+}
